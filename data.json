@@ -233,14 +233,7 @@
   ],
   "tasks": {},
   "mocks": [],
-  "revisions": [
-    {
-      "id": "ixqs5mg8",
-      "topicId": "oo1f3pn6",
-      "date": "2026-04-13",
-      "done": false
-    }
-  ],
+  "revisions": [],
   "settings": {
     "theme": "light"
   }
