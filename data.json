@@ -197,6 +197,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "w64ikrrp",
+      "subjectId": "pvjevrgq",
+      "name": "LRDI PYQS",
+      "difficulty": "Medium",
+      "totalClasses": 0,
+      "doneClasses": 0,
+      "totalTests": 4,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
