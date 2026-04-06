@@ -213,6 +213,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "btap5wu3",
+      "subjectId": "pvjevrgq",
+      "name": "CAT ORIENTED LRDI PUZZLES (PDF)",
+      "difficulty": "Medium",
+      "totalClasses": 0,
+      "doneClasses": 0,
+      "totalTests": 29,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
