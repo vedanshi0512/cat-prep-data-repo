@@ -21,7 +21,24 @@
       "color": "#7c3aed"
     }
   ],
-  "topics": [],
+  "topics": [
+    {
+      "id": "oo1f3pn6",
+      "subjectId": "54qlawvp",
+      "name": "RATIO & PROPORTION + MF",
+      "difficulty": "Easy",
+      "totalClasses": 8,
+      "doneClasses": 0,
+      "totalTests": 19,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
+    }
+  ],
   "tasks": {},
   "mocks": [],
   "revisions": [],
