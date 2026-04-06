@@ -85,6 +85,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "ma9iwxs0",
+      "subjectId": "54qlawvp",
+      "name": "SI-CI & PARTNERSHIP",
+      "difficulty": "Medium",
+      "totalClasses": 5,
+      "doneClasses": 0,
+      "totalTests": 0,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
