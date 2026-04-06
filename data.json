@@ -165,6 +165,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "7jfja1wh",
+      "subjectId": "pvjevrgq",
+      "name": "ROUTES AND NETWORK",
+      "difficulty": "Medium",
+      "totalClasses": 3,
+      "doneClasses": 0,
+      "totalTests": 0,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
