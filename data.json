@@ -37,6 +37,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "7wvly0ha",
+      "subjectId": "54qlawvp",
+      "name": "PERCENTAGES",
+      "difficulty": "Easy",
+      "totalClasses": 6,
+      "doneClasses": 0,
+      "totalTests": 20,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
