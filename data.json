@@ -28,7 +28,7 @@
       "name": "RATIO & PROPORTION + MF",
       "difficulty": "Easy",
       "totalClasses": 8,
-      "doneClasses": 0,
+      "doneClasses": 8,
       "totalTests": 19,
       "doneTests": 0,
       "totalPYQ": 0,
@@ -36,7 +36,7 @@
       "totalQuestions": 0,
       "doneQuestions": 0,
       "notes": "",
-      "theoryComplete": false
+      "theoryComplete": true
     },
     {
       "id": "7wvly0ha",
@@ -233,7 +233,14 @@
   ],
   "tasks": {},
   "mocks": [],
-  "revisions": [],
+  "revisions": [
+    {
+      "id": "ixqs5mg8",
+      "topicId": "oo1f3pn6",
+      "date": "2026-04-13",
+      "done": false
+    }
+  ],
   "settings": {
     "theme": "light"
   }
