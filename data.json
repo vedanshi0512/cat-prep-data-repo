@@ -69,6 +69,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "nf9qjs9f",
+      "subjectId": "54qlawvp",
+      "name": "PROFIT & LOSS",
+      "difficulty": "Medium",
+      "totalClasses": 4,
+      "doneClasses": 0,
+      "totalTests": 0,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
