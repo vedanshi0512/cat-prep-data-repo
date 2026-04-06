@@ -117,6 +117,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "6u7z4qui",
+      "subjectId": "pvjevrgq",
+      "name": "PROJECT MANAGEMENT",
+      "difficulty": "Medium",
+      "totalClasses": 1,
+      "doneClasses": 0,
+      "totalTests": 0,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
