@@ -1,5 +1,11 @@
 {
-  "subjects": [],
+  "subjects": [
+    {
+      "id": "54qlawvp",
+      "name": "QUANTS",
+      "color": "#dc2626"
+    }
+  ],
   "topics": [],
   "tasks": {},
   "mocks": [],
