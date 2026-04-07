@@ -232,7 +232,19 @@
     }
   ],
   "tasks": {},
-  "mocks": [],
+  "mocks": [
+    {
+      "id": "q6asm93g",
+      "name": "CL FLEXI 1",
+      "date": "2026-04-07",
+      "provider": "CL",
+      "type": "Full Mock",
+      "notes": "",
+      "attempted": false,
+      "analysed": false,
+      "score": null
+    }
+  ],
   "revisions": [],
   "settings": {
     "theme": "light"
