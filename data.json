@@ -239,10 +239,17 @@
       "date": "2026-04-07",
       "provider": "CL",
       "type": "Full Mock",
-      "notes": "",
-      "attempted": false,
+      "notes": "VARC- 82.5\nLRDI- 80.4\nQUANT - 6.9",
+      "attempted": true,
       "analysed": false,
-      "score": null
+      "score": {
+        "varc": 22,
+        "lrdi": 11,
+        "quant": -2,
+        "total": 31,
+        "percentile": 59.97,
+        "rank": null
+      }
     }
   ],
   "revisions": [],
