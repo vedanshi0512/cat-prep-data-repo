@@ -238,13 +238,13 @@
       "totalClasses": 3,
       "doneClasses": 3,
       "totalTests": 1,
-      "doneTests": 0,
+      "doneTests": 1,
       "totalPYQ": 0,
       "donePYQ": 0,
       "totalQuestions": 0,
       "doneQuestions": 0,
       "notes": "",
-      "theoryComplete": false
+      "theoryComplete": true
     }
   ],
   "tasks": {},
