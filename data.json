@@ -277,6 +277,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "wyhx6ywv",
+      "subjectId": "54qlawvp",
+      "name": "Average Allegation Mixture",
+      "difficulty": "Medium",
+      "totalClasses": 3,
+      "doneClasses": 0,
+      "totalTests": 0,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
