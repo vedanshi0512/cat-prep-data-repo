@@ -245,6 +245,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": true
+    },
+    {
+      "id": "q2omul1y",
+      "subjectId": "6ruqhcbn",
+      "name": "Module 1",
+      "difficulty": "Medium",
+      "totalClasses": 5,
+      "doneClasses": 0,
+      "totalTests": 5,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
