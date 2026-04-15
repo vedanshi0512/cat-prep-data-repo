@@ -229,6 +229,22 @@
       "doneQuestions": 0,
       "notes": "",
       "theoryComplete": false
+    },
+    {
+      "id": "9va5e96n",
+      "subjectId": "6ruqhcbn",
+      "name": "Getting Started",
+      "difficulty": "Easy",
+      "totalClasses": 3,
+      "doneClasses": 0,
+      "totalTests": 1,
+      "doneTests": 0,
+      "totalPYQ": 0,
+      "donePYQ": 0,
+      "totalQuestions": 0,
+      "doneQuestions": 0,
+      "notes": "",
+      "theoryComplete": false
     }
   ],
   "tasks": {},
