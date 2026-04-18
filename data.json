@@ -353,7 +353,7 @@
       "type": "Full Mock",
       "notes": "VARC- 82.5\nLRDI- 80.4\nQUANT - 6.9",
       "attempted": true,
-      "analysed": false,
+      "analysed": true,
       "score": {
         "varc": 22,
         "lrdi": 11,
